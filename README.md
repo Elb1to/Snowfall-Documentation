@@ -1,6 +1,6 @@
 # Snowfall-Documentation
 
-<!-- PROJECT LOGO -->
+<!-- LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/FrozedClubDevelopment/Snowfall-Documentation">
@@ -22,3 +22,8 @@
     <a href="https://github.com/Elb1to">Elb1to</a>
   </p>
 </div>
+
+<!-- REQUIREMENTS -->
+## Requirements
+- [ ] [MongoDB](https://www.mongodb.com/)
+- [ ] [Redis](https://redis.io/)
