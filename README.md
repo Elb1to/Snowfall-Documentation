@@ -32,7 +32,7 @@
 - [x] Disguise, NPC's & Holograms 
 - [x] Thread safe, Ascendancy performance   
 - [x] Fast synchronized user & network data  
-- [x] Full time support & updates
+- [x] Full time updates
 - [x] Modern In-Game UI Configurability 
 - [x] 100% Configurability 
 
