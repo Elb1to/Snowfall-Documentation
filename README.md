@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/FrozedClubDevelopment/Snowfall-Documentation">
-    <img src="snowfall.png" alt="Logo" width="80" height="80">
+    <img src="snowfall.png" alt="Logo" width="160" height="160">
   </a>
 
   <h3 align="center">Snowfall Core</h3>
