@@ -1,4 +1,4 @@
-# Snowfall-Documentation
+# Snowfall Documentation
 
 <!-- LOGO -->
 <br />
@@ -12,7 +12,7 @@
   <p align="center">
     Outpowering all the network features you need!
     <br />
-    <a href="https://github.com/FrozedClubDevelopment/Snowfall-Documentation"><strong>Explore the documentation »</strong></a>
+    <a href="https://discord.frozed.club/"><strong>Join the discord »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Clouke">Clouke</a>
@@ -22,6 +22,17 @@
     <a href="https://github.com/Elb1to">Elb1to</a>
   </p>
 </div>
+
+<!-- FEATURES -->
+## Features
+- [x] Staff Modules
+- [x] Punishments
+- [x] Network Overview
+- [x] Disguise, NPC's & Holograms 
+- [x] Thread safe, Ascendancy performance   
+- [x] Full synchronized user & network data
+- [x] Full time support & updates
+- [x] 100% Configurability 
 
 <!-- REQUIREMENTS -->
 ## Requirements
