@@ -31,10 +31,11 @@
 - [x] Network Overview
 - [x] Disguise, NPC's & Holograms 
 - [x] Thread safe, Ascendancy performance   
-- [x] Fast synchronized user & network data  
+- [x] Fast synchronized user & network data
 - [x] Full time updates
+- [x] Command Configurability
 - [x] Modern In-Game UI Configurability 
-- [x] 100% Configurability 
+- [x] 100% Configurability
 
 <!-- REQUIREMENTS -->
 ## Requirements
