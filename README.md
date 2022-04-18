@@ -41,6 +41,11 @@
 - [x] [MongoDB](https://www.mongodb.com/)
 - [x] [Redis](https://redis.io/)
 
+<!-- PRICING -->
+## Pricing
+* Jar (License & Loader) 50$
+* Source Code (Full-Access) 350$
+
 <!-- Placeholders -->
 ## Placeholder API
     %snow_player_rank% - The rank name of player
@@ -53,6 +58,7 @@
     %snow_bool_vanish% - The boolean value of player's vanish
     %snow_bool_disguise% - The boolean value of player's disguise
     %snow_bool_modmode% - The boolean value of player's modmode
+
 ## Permissions
 ### Commands
 * snowfall.command.chatclear
