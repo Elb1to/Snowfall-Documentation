@@ -29,7 +29,8 @@
 - [x] Punishments
 - [x] Ranks
 - [x] Network Overview
-- [x] Disguise, NPC's & Holograms 
+- [x] Disguise, NPC's & Holograms
+- [x] Guilds & Friends system 
 - [x] Thread safe, Ascendancy performance   
 - [x] Fast synchronized user & network data
 - [x] Full time updates
