@@ -64,6 +64,7 @@
 ## Permissions
 ### Commands
 * snowfall.command.chatclear
+* snowfall.command.search
 * snowfall.command.chat
 * snowfall.command.gmc
 * snowfall.command.gms
